@@ -84,17 +84,24 @@ Modules Used
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 
 ## ➤ Installation
+
+
 ```javascript
 pip install cv2
 ```
+
+
+
 ```javascript
 pip install numpy
 ```
+
 Make sure you installed all the above mentioned module .
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
 ## ➤ Getting Started (quick)
+
 
 This getting started guide is super quick! Follow these two steps and you will have turned your boring readme into a pretty one.
 
