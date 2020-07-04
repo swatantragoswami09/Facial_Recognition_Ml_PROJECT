@@ -86,16 +86,16 @@ Modules Used
 ## ➤ Installation
 
 
-```javascript
+<h1>```javascript
 pip install cv2
-```
+```</h1>
 
 
-
+<h1>
 ```javascript
 pip install numpy
 ```
-
+</h1>
 Make sure you installed all the above mentioned module .
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
@@ -105,10 +105,9 @@ Make sure you installed all the above mentioned module .
 
 This getting started guide is super quick! Follow these two steps and you will have turned your boring readme into a pretty one.
 
-1. Rename your current `README.md` file to `blueprint.md`.
-2. Run `python`
 
-That's it! Check out your freshly generated `README.md` file and enjoy the fruits of what you just did.
+
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-slower)
@@ -126,33 +125,6 @@ First you need to create a `face_detection.py` file. This blueprint is going to 
 
 Run the `node_modules/.bin/readme generate` command and a README file will be generated for you. If you want to go into depth with the readme command, check out the following options or write `node_modules/.bin/readme generate -h` in your terminal if that's your cup of tea.
 
-
-| Option                | Type                                             | Description                                      |
-|-----------------------|--------------------------------------------------|--------------------------------------------------|
-| -c, --config          | string                                           | Path of the configuration file. Defaults to 'blueprint.json |
-| -p, --package         | string                                           | Path of the 'package.json' file. Defaults to 'package.json'. |
-| --pkg.name            | string                                           | Name of the project. Used for the 'title' template. |
-| --pkg.contributors    | {name: string; email: string; url: string; img: string; info: string[];}[] | Contributors of the project. Used for the 'contributors' template. |
-| --pkg.license         | string                                           | License kind. Used for the 'license' template.   |
-| -o, --output          | string                                           | Path of the generated README file. Defaults to 'README.md'. |
-| -h, --help            |                                                  | Display this help message.                       |
-| -i, --input           | string                                           | The blueprint. Defaults to 'blueprint.md'.       |
-| --badges              | {alt: string, url: string, img: string}[]        | Badges. Used for the 'badges' template.          |
-| --text                | string                                           | Text describing your project. Used for the 'description' template. |
-| --demo                | string                                           | Demo url for your project. Used for the 'description' template. |
-| --lineBreak           | string                                           | The linebreak used in the generation of the README file. Defaults to 'rn' |
-| --tab                 | string                                           | The tab used in the generation of the README file. Defaults to 't' |
-| --placeholder         | [string, string]                                 | The placeholder syntax used when looking for templates in the blueprint. Defaults to '["{{", "}}"]. |
-| --line                | string                                           | The line style of the titles. Can also be an URL. Defaults to 'colored'. |
-| --templates           | {name: string, template: string}[]               | User created templates.                          |
-| -s, --silent          | boolean                                          | Whether the console output from the command should be silent. |
-| -d, --dry             | boolean                                          | Whether the command should run as dry. If dry, the output file is notgenerated but outputted to the console instead. |
-| --headingPrefix       | {[key: number]: string}                          | The prefix of the header tags. Defaults to '{1: "➤ ", 2: "➤ "}' |
-| --logo                | {src: string; alt?: string; width?: number; height?: number;} | The logo information. Used for the 'logo' template. |
-| --contributorsPerRow  | number                                           | The amount of contributors pr row when using the 'contributors' template. Defaults to '6' |
-| --documentationConfig | object                                           | Configuration object for automatic documentation template. |
-| --extend              | string                                           | Path to another configuration object that should be extended. |
-| --checkLinks          | boolean                                          | Checks all links for aliveness after the README file has been generated. |
 
 
 ### Configuration
