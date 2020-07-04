@@ -88,11 +88,17 @@ according to that you need to edit your name in the code for the successful iden
 
 ## ➤ Getting Started (slower)
 
-This getting started guide is a little bit longer, but will give you some superpowers. Spend a minute reading this getting started guide and you'll have the best README file in your town very soon.
+This getting started guide is a little bit longer, but will give you some superpowers. 
+
+
+
+Spend a minute reading this getting started guide and you'll have the best README file in your town very soon.
 
 
 
 
-There are lot's of ways to support me! I would be so happy if you gave this repository a star, tweeted about it or told your friends about this little corner of the Internet ❤️
+There are lot's of ways to support me! I would be so happy if you gave this repository a star,
+
+tweeted about it or told your friends about this little corner of the Internet ❤️
 
 
