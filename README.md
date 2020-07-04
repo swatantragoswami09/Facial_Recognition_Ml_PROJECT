@@ -64,7 +64,8 @@ Make sure you installed all the above mentioned module .
 
 
 This getting started guide is super quick! Follow these two steps and you will have turned your boring readme into a pretty one.
-
+Download the repository github clone and run the activate.bat file and then futher run the detecter.py file for the succesfully running the project. 
+If you want to create your own data set you first need to create data set by python known as face_dataset_creater.py according to that you need to edit your name in the code for the successful identification.
 
 
 
