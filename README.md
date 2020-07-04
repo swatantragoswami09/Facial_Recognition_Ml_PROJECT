@@ -67,7 +67,10 @@ This getting started guide is super quick! Follow these two steps and you will h
 
 
 
+
 Download the repository github clone and run the activate.bat file and then futher run the detecter.py file for the succesfully running the project.
+
+
 
 
 
