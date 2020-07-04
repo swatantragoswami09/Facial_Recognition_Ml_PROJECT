@@ -99,7 +99,7 @@ Make sure you installed all the above mentioned module .
 This getting started guide is super quick! Follow these two steps and you will have turned your boring readme into a pretty one.
 
 1. Rename your current `README.md` file to `blueprint.md`.
-2. Run `npx @appnest/readme generate`
+2. Run `python`
 
 That's it! Check out your freshly generated `README.md` file and enjoy the fruits of what you just did.
 
@@ -112,28 +112,8 @@ This getting started guide is a little bit longer, but will give you some superp
 
 ### Blueprint
 
-First you need to create a `blueprint.md` file. This blueprint is going to be the blueprint for the `README.md` file we will generate later.
+First you need to create a `face_detection.py` file. This blueprint is going to be the blueprint for the `README.md` file we will generate later.
 
-Let's start simple. In order to get values from your `package.json` file injected into the README file we use the mustache syntax (`{{ .. }}`). Let's say your `package.json` file looks like this:
-
-```json
-{
-  "name": "@appnest/readme",
-  "version": "1.2.5"
-}
-```
-
-To get the `name` and `version` into your README file you will need to write `{{ pkg.name }}` and `{{ pkg.version }}` in your `blueprint.md` file like this:
-
-```markdown
-Welcome to {{ pkg.name }}. This is version {{ pkg.version }}!
-```
-
-When running `node_modules/.bin/readme generate` the file `README.md` will be generated with the following contents:
-
-```markdown
-Welcome to @appnest/readme. This is version 1.2.5.
-```
 
 ### Usage
 
