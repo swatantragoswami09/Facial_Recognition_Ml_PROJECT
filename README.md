@@ -40,9 +40,7 @@ Modules Used
 <summary>📖 Table of Contents</summary>
 <br />
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
 ## ➤ Table of Contents
-
 * [➤ Installation](#-installation)
 * [➤ Getting Started (quick)](#-getting-started-quick)
 * [➤ Getting Started (slower)](#-getting-started-slower)
