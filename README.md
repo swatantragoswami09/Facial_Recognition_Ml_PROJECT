@@ -88,12 +88,10 @@ Modules Used
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 
 ## ➤ Installation
-
 ```javascript
 pip install cv2
 ```
-
-If you don't want to install anything you can use the `npx @appnest/readme generate` command instead.
+make sure you installed cv2 module (if not install by pip install cv2).
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
