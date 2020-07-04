@@ -12,7 +12,12 @@
 
 <p align="center">
   <b>Face Recognition Technology</b></br>
-  <sub>Use this readme generator to easily generate beautiful readme's like this one! Simply extend your <code>package.json</code> and create a readme blueprint. On Github, the README file is like the landing page of your website because it is the first thing visitors see. You want to make a good first impression.<sub>
+  <sub><ul>
+	  <li>Face recognition:Detection → Alignment → Recognition</li>
+	  <li>Face detection & alignment</li>
+	  <li>Face recognition</li>
+	</ul> 
+	<sub>
 </p>
 
 <br />
