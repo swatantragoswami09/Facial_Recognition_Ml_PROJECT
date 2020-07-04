@@ -87,7 +87,10 @@ Modules Used
 ```javascript
 pip install cv2
 ```
-make sure you installed cv2 module (if not install by pip install cv2).
+```javascript
+pip install numpy
+```
+Make sure you installed all the above mentioned module .
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
 
