@@ -86,16 +86,16 @@ Modules Used
 ## ➤ Installation
 
 
-<h1>```javascript
-pip install cv2
-```</h1>
-
-
-<h1>
 ```javascript
-pip install numpy
+<h1>pip install cv2</h1>
 ```
-</h1>
+
+
+
+```javascript
+<h1>pip install numpy</h1>
+```
+
 Make sure you installed all the above mentioned module .
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
