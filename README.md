@@ -25,11 +25,12 @@
 
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*REkyBlBoacF-qn65zhIzVg.jpeg" alt="Demo" width="800" />
-</p>
+</p> Modules Used
 
-* **Simple**: Extremely simple to use - so simple that it almost feels like magic!
-* **Powerful**: Customize almost everything - add your own templates and variables if you like
-* **Awesome**: The tool you don't know you need before you have many different repositories that all need maintenance
+
+* **numpy**: import numpy as np
+* **site packages**: CV2,cascase files used (haarcascade_frontalface_default.xml)
+* **CV2**: import cv2
 
 <details>
 <summary>📖 Table of Contents</summary>
