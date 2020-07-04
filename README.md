@@ -91,7 +91,7 @@ Modules Used
 ## ➤ Installation
 
 ```javascript
-npm install @appnest/readme -D
+pip install cv2
 ```
 
 If you don't want to install anything you can use the `npx @appnest/readme generate` command instead.
