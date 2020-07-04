@@ -75,7 +75,10 @@ Download the repository github clone and run the activate.bat file and then futh
 
 
 
-If you want to create your own data set you first need to create data set by python known as face_dataset_creater.py according to that you need to edit your name in the code for the successful identification.
+If you want to create your own data set you first need to create data set by python known as face_dataset_creater.py 
+
+
+according to that you need to edit your name in the code for the successful identification.
 
 
 
