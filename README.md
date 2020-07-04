@@ -29,7 +29,9 @@
 
 Modules Used
 * **numpy**: import numpy as np
+
 * **site packages**: CV2,cascase files used (haarcascade_frontalface_default.xml)
+
 * **CV2**: import cv2
 
 <details>
