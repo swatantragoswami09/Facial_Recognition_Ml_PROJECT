@@ -21,8 +21,6 @@
 </p>
 
 <br />
-
-
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*REkyBlBoacF-qn65zhIzVg.jpeg" alt="Demo" width="500" />
 </p> 
@@ -34,9 +32,7 @@ Modules Used
 
 * **CV2**: import cv2
 
-<details>
-	
-	
+<details>	
 <summary>📖 Table of Contents</summary>
 <br />
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
