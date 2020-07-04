@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbecominghuman.ai%2Fsmart-face-control-how-facial-recognition-changes-different-industries-f03204496eaf&psig=AOvVaw2UFORx9D-sNFpw_6mxfJV7&ust=1593944318021000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjcoLuvs-oCFQAAAAAdAAAAABAD.gif" alt="Demo" width="800" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbecominghuman.ai%2Fsmart-face-control-how-facial-recognition-changes-different-industries-f03204496eaf&psig=AOvVaw2UFORx9D-sNFpw_6mxfJV7&ust=1593944318021000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjcoLuvs-oCFQAAAAAdAAAAABAD.jpg" alt="Demo" width="800" />
 </p>
 
 * **Simple**: Extremely simple to use - so simple that it almost feels like magic!
