@@ -1,4 +1,4 @@
-# Facial_Recognition_Ml_PROJECT
+# Facial_Recognition_ML_PROJECT
 
   ### Presented by:
    ### Swatantra kumar Goswami
